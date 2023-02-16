@@ -1,32 +1,31 @@
 # Portfolio
 My tester's portfolio.
 
-# INDEX
+# Index
 1. [About me](#about-me)
+2. [Courses](#courses)
+3. [My projects](#my-projects)
+4. [Books](#books)
 
 # About me
 
-My name is Patrycja Gutomska. 
-
-# Tech skills
-
-* SQL
+My name is Patrycja Gutomska. Recently I started to be interested in software testing. I take part in courses, webinars and read books related to testing. My goal is to develop testing knowlage and technical skills. I am looking for a first job as manual tester.
 
 # Courses
 
 * Dare IT Challenge: Zostań Testerem Manualnym
-
+* SQL in 120 minutes on [kursysql.pl](https://www.kursysql.pl/sql-w-120-minut/)
 * 4-day Manual tester Marathon from GoIT
-
-# Books
-
-* "Zawód tester" Radosław Smilgin - during
-* "Praktyczny Kurs SQL" Danuta Mandrala, Marcin Szeliga - during
 
 # My projects
 
-* [MySQL](https://github.com/pgutomska/Portfolio/blob/main/MyProjects/MySQL.md)
 * [Bug reports](https://github.com/pgutomska/Portfolio/blob/main/MyProjects/BugReportsOfSwipeTo.md) of SwapeTo mobile application in Jira
-* [Test cases](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit) and [link](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit) to Futbal Kolektyw: Scouts panel
-* [Bug reports](https://docs.google.com/document/d/1EmkNx5qp1kCTks8WTv7mbIuncSpynDsv53T68aa-5_I/edit) to Futbol Kolektyw: Scouts Panel
-* [Test report](https://docs.google.com/document/d/19ihWjwXELDIiIsyVEEKJ_eT4FaK2ZSFzIaj33SLo9h0/edit#heading=h.mjmbsq3woa0n)
+* My test cases from [exploring testing](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit) and from [user story](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit) to Futbol Kolektyw: Scouts panel page
+* [Bug reports](https://docs.google.com/document/d/1EmkNx5qp1kCTks8WTv7mbIuncSpynDsv53T68aa-5_I/edit) to Futbol Kolektyw: Scouts Panel page
+* [Test report](https://docs.google.com/document/d/19ihWjwXELDIiIsyVEEKJ_eT4FaK2ZSFzIaj33SLo9h0/edit#heading=h.mjmbsq3woa0n) of Futbol Kolektyw: Scouts Panel page
+* [MySQL](https://github.com/pgutomska/Portfolio/blob/main/MyProjects/MySQL.md)
+
+# Books
+
+* "Zawód tester" Radosław Smilgin - reading
+* "Praktyczny Kurs SQL" Danuta Mandrala, Marcin Szeliga - reading
