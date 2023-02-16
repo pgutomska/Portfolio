@@ -23,7 +23,7 @@ My name is Patrycja Gutomska. Recently I started to be interested in software te
 * My test cases from [exploring testing](https://docs.google.com/document/d/1YRDIOQvrbB-8L77hRTqiGg1yvgKjiYIGKWvk3LYt234/edit) and from [user story](https://docs.google.com/document/d/1Nugy81i-qjqrOQDaUlxDpq8gY8DRlNZDSZEQa8Yp7YA/edit) to Futbol Kolektyw: Scouts panel page
 * [Bug reports](https://docs.google.com/document/d/1EmkNx5qp1kCTks8WTv7mbIuncSpynDsv53T68aa-5_I/edit) to Futbol Kolektyw: Scouts Panel page
 * [Test report](https://docs.google.com/document/d/19ihWjwXELDIiIsyVEEKJ_eT4FaK2ZSFzIaj33SLo9h0/edit#heading=h.mjmbsq3woa0n) of Futbol Kolektyw: Scouts Panel page
-* [MySQL](https://github.com/pgutomska/Portfolio/blob/main/MyProjects/MySQL.md)
+* [MySQL queries](https://github.com/pgutomska/Portfolio/blob/main/MyProjects/MySQL.md) created for a task from DareIT Challenge
 
 # Books
 
