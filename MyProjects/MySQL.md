@@ -96,8 +96,7 @@ WHERE customer_id = 3
 
 ![z11](https://user-images.githubusercontent.com/122393705/219426178-b59cdcd1-e689-4bdd-bcb7-9480a4900ea0.png)
 
-#### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient 
-i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+#### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
 SELECT * FROM customers
 
@@ -119,7 +118,7 @@ UPDATE customers
 
 SET email = 'pati@mail.com'
 
-WHERE customer_id = 4
+WHERE email IS NULL AND name = 'Patrycja'
 
 ![z13](https://user-images.githubusercontent.com/122393705/219426273-b849ec8e-6879-4dcc-a15f-bb99354e82b1.png)
 
