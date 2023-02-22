@@ -9,13 +9,15 @@ My tester's portfolio.
 
 # About me
 
+<p align="justify">
 My name is Patrycja Gutomska. Recently I started to be interested in software testing. I take part in courses, webinars and read books related to testing. My goal is to develop testing knowlage and technical skills. I am looking for a first job as manual tester.
+</p>
 
 # Courses
 
 * Dare IT Challenge: Zostań Testerem Manualnym 
 * SQL in 120 minutes on [kursysql.pl](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* 4-day Manual tester Marathon from GoIT
+* 4-day Manual tester marathon from GoIT
 
 # My projects
 
