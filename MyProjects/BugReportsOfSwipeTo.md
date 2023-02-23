@@ -1,14 +1,14 @@
 ## 1. Bug report
 
-![DIT-2](https://user-images.githubusercontent.com/122393705/219444157-7109fddf-8898-4991-8b00-0fdf3d105613.png)
+![DIT-2](https://user-images.githubusercontent.com/122393705/220923881-b5bfd2ab-27e9-4f3d-8d36-1236388df05d.png)
 
 ### Attachment:
 
-![DIT-2_screenshot](https://user-images.githubusercontent.com/122393705/219444612-177d984c-b2b9-4b12-acf9-ad5ff22c4cac.jpg)
+![DIT-2_screenshot](https://user-images.githubusercontent.com/122393705/220922030-7bf6a90e-3254-4ff8-8663-82e11f776d2b.png)
 
 ## 2. Bug report
 
-![DIT-13](https://user-images.githubusercontent.com/122393705/219444179-8daef311-2b21-4664-942c-0a2c13872222.png)
+![DIT-13](https://user-images.githubusercontent.com/122393705/220923936-ddce0c4e-a6ee-4be1-9a09-8a86f61ad7a0.png)
 
 ### Attachment:
 
@@ -16,11 +16,11 @@
 
 ## 3. Bug report
 
-![DIT-14](https://user-images.githubusercontent.com/122393705/219444189-7b5b2b8e-df53-49c9-8627-ee1f9b35d7d2.png)
+![DIT-14](https://user-images.githubusercontent.com/122393705/220923975-bcd274f8-d1cd-4d34-88c8-726a33fe20c0.png)
 
 ## 4. Bug report
 
-![DIT-15](https://user-images.githubusercontent.com/122393705/219444209-e1f1c779-fa10-44ab-8c1a-df52dc26dd3a.png)
+![DIT-15](https://user-images.githubusercontent.com/122393705/220924009-5d5a6dc7-4bb8-4bd8-9b13-404b7f87d478.png)
 
 ### Attachment:
 
@@ -28,27 +28,27 @@
 
 ## 5. Bug report
 
-![DIT-16](https://user-images.githubusercontent.com/122393705/219444219-23e15472-92f9-4d47-8b64-f397f1454cec.png)
+![DIT-16](https://user-images.githubusercontent.com/122393705/220924070-286f9004-7587-4c62-bc0d-d01aa097c5b3.png)
 
 ### Attachment:
 
 ![DIT-16_screencast](https://user-images.githubusercontent.com/122393705/219444433-9bb44c07-b1b2-4366-97e6-22bce9f1f50c.gif)
 
 ## 6. Bug report
-![DIT-17](https://user-images.githubusercontent.com/122393705/219444226-4ff26c86-7ea6-4d30-a2ec-31073e558de1.png)
+
+![DIT-17](https://user-images.githubusercontent.com/122393705/220924099-dffd6c30-ee17-4542-b3a5-50dcf9904e7f.png)
 
 ## 7. Bug report
- 
-![DIT-18](https://user-images.githubusercontent.com/122393705/219444236-f019df18-21b3-4181-b105-1cfcd3d26ed9.png)
+
+![DIT-18](https://user-images.githubusercontent.com/122393705/220924871-3f1d6b82-9b5a-449e-a423-6c03e5f1a10e.png)
 
 ## 8. Bug report
 
-![DIT-19](https://user-images.githubusercontent.com/122393705/219444243-1a5511ee-7b7f-4893-a486-ac6672961b23.png)
+![DIT-19](https://user-images.githubusercontent.com/122393705/220924268-d4e78521-e09e-48d7-9c52-625b74162e18.png)
 
 ## 9.Bug report
 
-![DIT-20](https://user-images.githubusercontent.com/122393705/219444258-3cdba1c2-4eb4-4759-b175-c35d1c2bfea8.png)
+![DIT-20](https://user-images.githubusercontent.com/122393705/220924340-7dfe76f3-ff40-48cc-a5f6-282868f10a26.png)
 
 ### Attachment:
-
-![DIT-20_screenshot](https://user-images.githubusercontent.com/122393705/219444549-a4eeb6f4-03c2-4978-ba30-fec7ff611810.jpg)
+![DIT-20_screenshot](https://user-images.githubusercontent.com/122393705/220922472-1ec477cb-9cb9-4d0a-9792-b45a37b334cd.png)
