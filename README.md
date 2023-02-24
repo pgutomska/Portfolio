@@ -5,7 +5,9 @@ My tester's portfolio.
 1. [About me](#about-me)
 2. [Courses](#courses)
 3. [My projects](#my-projects)
-4. [Books](#books)
+4. [Tech skills](#tech-skills)
+5. [Tools](#tools)
+5. [Books](#books)
 
 # About me
 
@@ -26,6 +28,17 @@ My name is Patrycja Gutomska. Recently I started to be interested in software te
 * Futbol Kolektyw: Scouts Panel page [bug reports](https://docs.google.com/document/d/1EmkNx5qp1kCTks8WTv7mbIuncSpynDsv53T68aa-5_I/edit)
 * Futbol Kolektyw: Scouts Panel page [test report](https://docs.google.com/document/d/19ihWjwXELDIiIsyVEEKJ_eT4FaK2ZSFzIaj33SLo9h0/edit#heading=h.mjmbsq3woa0n) 
 * [MySQL queries](https://github.com/pgutomska/Portfolio/blob/main/MyProjects/MySQL.md) created for a task from DareIT Challenge
+
+# Tech skills
+
+* SQL basics
+* HTML basics
+
+# Tools
+
+* Jira basics
+* Trello basics
+* TestRail basics
 
 # Books
 
