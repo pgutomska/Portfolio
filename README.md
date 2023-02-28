@@ -19,7 +19,8 @@ My name is Patrycja Gutomska. Recently I started to be interested in software te
 
 * Dare IT Challenge: Zostań Testerem Manualnym 
 * SQL in 120 minutes on [kursysql.pl](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* 4-day Manual tester marathon from GoIT
+* 4-days manual tester marathon from GoIT
+* 7-days HTML+CSS marathon from GoIT
 
 # My projects
 
